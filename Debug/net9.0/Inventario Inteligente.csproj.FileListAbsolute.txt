@@ -1,0 +1,98 @@
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\bin\Debug\net9.0\appsettings.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\bin\Debug\net9.0\Inventario Inteligente.staticwebassets.runtime.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\bin\Debug\net9.0\Inventario Inteligente.staticwebassets.endpoints.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\bin\Debug\net9.0\Inventario Inteligente.exe
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\bin\Debug\net9.0\Inventario Inteligente.deps.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\bin\Debug\net9.0\Inventario Inteligente.runtimeconfig.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\bin\Debug\net9.0\Inventario Inteligente.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\bin\Debug\net9.0\Inventario Inteligente.pdb
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.AssemblyInfoInputs.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.AssemblyInfo.cs
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.RazorAssemblyInfo.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.RazorAssemblyInfo.cs
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\scopedcss\bundle\Inventario Inteligente.styles.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\scopedcss\projectbundle\Inventario Inteligente.bundle.scp.css
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\7u7bf8t0k1-b9sayid5wm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\al8ip1k88a-61n19gt1b8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\d8bm0qagfl-xtxxf3hu2r.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\lkshkggzf1-bqjiyaj88i.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\ayseyog80e-c2jlpeoesf.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\51dn24i8lr-erw9l3u2r3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\pnwi1hbj75-aexeepp0ev.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\4w9fkog6j8-d7shbmvgxk.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\uktgssptb3-ausgxo2sd3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\bcvtjo2n5l-k8d9w2qqmf.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\83l1nwsv15-cosvhxvwiu.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\fwseoamxbb-ub07r2b239.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\877sekx0jy-fvhpjtyr6v.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\1xx6m54h7n-b7pk76d08c.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\g9f4098m2b-fsbi9cje9m.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\qn1vrib6h5-rzd6atqjts.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\w07o6h933n-ee0r1s7dh0.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\pzi1pm2tlj-dxx9fxp4il.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\o0r132rb1l-jd9uben2k1.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\vowatgrty6-khv3u5hwcm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\p1o3voc2qz-r4e9w2rdcm.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\vivypj5n29-lcd1t2u6c8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\hcd616li3p-c2oey78nd0.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\gc8i3h15cu-tdbxkamptv.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\a3a88nesur-j5mq2jizvt.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\jzjapnbd88-06098lyss8.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\dfrzgw6cj4-nvvlpmu67g.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\pzzxibj7m1-s35ty4nyc5.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\ru1iqbh801-pj5nd1wqec.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\gj9c67jlbj-46ein0sx1k.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\3rbmah2m6y-v0zj4ognzu.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\s76evki0da-37tfw0ft22.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\30sjpuoyfk-hrwsygsryq.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\fzlpgv2vc9-pk9g2wxc8p.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\tcjoy9fn92-ft3s53vfgj.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\t83vmc15ke-6cfz1n2cew.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\tyj1t0silu-6pdc2jztkx.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\cdcf48ckap-493y06b0oq.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\kh8vmogzti-iovd86k7lj.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\je9wxyk5zd-vr1egmr9el.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\0p2x9jk0z2-kbrnm935zg.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\uy1yetg0cx-jj8uyg4cgr.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\q0ytyd0h1n-y7v9cxd14o.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\5fuc4tl0i1-notf2xhcfb.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\hgbm0wwpu6-h1s4sie4z3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\9vl60pjj37-63fj8s7r0e.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\9ehwoy2ysi-0j3bgjxly4.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\7wk3t9dblf-47otxtyo56.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\l5hqwz8c8s-4v8eqarkd7.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\j7vmp6pilc-356vix0kms.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\f8lf2sb0w3-83jwlth58m.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\0nn7kg4cte-mrlpezrjn3.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\wuknsbjqgr-lzl9nlhx6b.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\taxjqdlmla-ag7o75518u.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\9k8bk7z9q1-x0q3zqp4vz.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\d14ziehyec-0i3buxo5is.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\cl8c0r2uvh-o1o13a6vjx.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\vdraqsi6rd-ttgo8qnofa.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\ow7tj29akn-2z0ns9nrw6.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\2q23aj1i2z-muycvpuwrr.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\y6abmjvhf0-87fc7y1x7t.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\unxin9n48p-mlv21k5csn.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\0q9zrkz9hc-9eg75atu53.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\compressed\cawcu8wlcj-9eg75atu53.gz
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\refint\Inventario Inteligente.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.pdb
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.genruntimeconfig.cache
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\ref\Inventario Inteligente.dll
+C:\Users\CARLOS RAMIREZ\source\repos\C#\Práctica #1\Inventario Inteligente\obj\Debug\net9.0\Inventario Inteligente.csproj.AssemblyReference.cache
