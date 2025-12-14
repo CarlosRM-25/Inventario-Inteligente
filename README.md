@@ -21,7 +21,7 @@ flowchart TD
 ```mermaid
 flowchart TD
   Start([Inicio]) --> List[Usuario en listado de productos]
-  List --> ClickEdit[Usuario hace clic en "Editar"]
+  List --> ClickEdit[Usuario hace clic en 'Editar']
   ClickEdit --> Load{¿ID válido?}
   Load -- No --> NotFound[Mostrar error: producto no encontrado]
   NotFound --> End([Fin])
@@ -44,7 +44,7 @@ flowchart TD
 ```mermaid
 flowchart TD
   Start([Inicio]) --> List[Usuario en listado de productos]
-  List --> ClickDelete[Usuario hace clic en "Eliminar"]
+  List --> ClickDelete[Usuario hace clic en 'Eliminar']
   ClickDelete --> ConfirmPage[Mostrar página de confirmación]
   ConfirmPage --> UserChoice{Usuario confirma eliminación?}
   UserChoice -- No --> Cancel[Cancelar y volver al listado]
@@ -65,7 +65,7 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  Start([Inicio]) --> NavStats[Usuario selecciona "Estadísticas"]
+  Start([Inicio]) --> NavStats[Usuario selecciona 'Estadísticas']
   NavStats --> QueryDB[Ejecutar consultas LINQ/EF Core]
   QueryDB --> PriceReport[1) Ordenar por Precio DESC (Reporte de Precios)]
   PriceReport --> AvgPrice[2) Calcular Promedio de Precio (Average)]
