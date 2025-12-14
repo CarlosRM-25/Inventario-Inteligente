@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Inventario Inteligente/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Tools": "10.0.1"
+        },
+        "runtime": {
+          "Inventario Inteligente.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/10.0.1": {}
+    }
+  },
+  "libraries": {
+    "Inventario Inteligente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore.Tools/10.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9vVI/GEf7C/URRBATChRxcG+YgYC0QGnIC+kkvqFWPAGA6mU30PTQABTlm4yICpU+rVgmwDulRKjz2mcKgP92g==",
+      "path": "microsoft.entityframeworkcore.tools/10.0.1",
+      "hashPath": "microsoft.entityframeworkcore.tools.10.0.1.nupkg.sha512"
+    }
+  }
+}
