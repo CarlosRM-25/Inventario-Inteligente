@@ -1,0 +1,59 @@
+﻿@model InventoryStatisticsViewModel
+@{
+    ViewData["Title"] = "Estadísticas de Inventario";
+}
+
+<h2>Estadísticas de Inventario</h2>
+
+<div class="mb-4">
+    <h4>Valor total del inventario</h4>
+    <p><strong>@Model.TotalInventoryValue.ToString("C")</strong></p>
+</div>
+
+<div class="mb-4">
+    <h4>Precio promedio</h4>
+    <p><strong>@Model.AveragePrice.ToString("C")</strong></p>
+</div>
+
+<div class="mb-4">
+    <h4>Productos de mayor a menor precio</h4>
+    <table class="table">
+        <thead><tr><th>Nombre</th><th>Precio</th><th>Stock</th></tr></thead>
+        <tbody>
+        @foreach (var p in Model.ProductsOrderedByPriceDesc)
+        {
+            <tr>
+                <td>@p.Name</td>
+                <td>@p.Price.ToString("C")</td>
+                <td>@p.Stock</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>
+
+<div class="mb-4">
+    <h4>Alerta: Stock crítico (&lt; 5 unidades)</h4>
+    @if (Model.CriticalStockProducts.Any())
+    {
+        <table class="table table-sm table-danger">
+            <thead><tr><th>Nombre</th><th>Stock</th><th>Precio</th></tr></thead>
+            <tbody>
+            @foreach (var p in Model.CriticalStockProducts)
+            {
+                <tr>
+                    <td>@p.Name</td>
+                    <td>@p.Stock</td>
+                    <td>@p.Price.ToString("C")</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-info">No hay productos con stock crítico.</div>
+    }
+</div>
+
+<a asp-action="Index" class="btn btn-secondary">Volver a Productos</a>

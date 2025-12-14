@@ -1,0 +1,18 @@
+﻿@using Inventario_Inteligente.Controllers
+@model Product
+@{
+    ViewData["Title"] = "Eliminar Producto";
+}
+
+<h2>Eliminar Producto</h2>
+
+<div class="alert alert-warning">
+    ¿Seguro que desea eliminar el producto "<strong>@Model.Name</strong>"?
+</div>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Sí, eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
+
