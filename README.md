@@ -1,8 +1,5 @@
 # Diagramas de flujo
 
-Documento con los diagramas de flujo para cada caso del sistema de inventario (Búsqueda, Edición, Eliminación y Estadísticas). Cada diagrama está en formato **Mermaid** para que puedas previsualizar, copiar o exportar fácilmente.
-
----
 
 ## 1) Diagrama de flujo — BÚSQUEDA DE PRODUCTOS
 
@@ -16,8 +13,6 @@ flowchart TD
   All --> Results
   Results --> End([Fin])
 ```
-
-**Comentarios:** cubre el flujo normal: entrada de búsqueda, filtrado (case-insensitive si la BD lo soporta) y presentación de resultados. Incluye la opción de caja vacía que muestra todos los productos.
 
 ---
 
@@ -42,8 +37,6 @@ flowchart TD
   Redirect --> End([Fin])
 ```
 
-**Comentarios:** contempla verificación del ID, validación del modelo (precio/stock) y manejo de errores de concurrencia/validación.
-
 ---
 
 ## 3) Diagrama de flujo — ELIMINACIÓN DE PRODUCTO
@@ -65,8 +58,6 @@ flowchart TD
   Success --> Redirect[Volver al listado]
   Redirect --> End([Fin])
 ```
-
-**Comentarios:** incluye confirmación del usuario y la verificación de existencia antes de borrar. Si prefieres soft-delete, reemplaza el nodo `Remove` por `Marcar IsDeleted = true`.
 
 ---
 
