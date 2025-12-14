@@ -31,7 +31,7 @@ flowchart TD
   Submit --> Validate{¿Datos válidos?}
   Validate -- No --> ShowErrors[Mostrar errores y volver al formulario]
   ShowErrors --> Modify
-  Validate -- Sí --> Save[Actualizar entidad en DB y SaveChanges]
+  Validate -- Sí --> Save[Actualizar entidad en DB - SaveChanges]
   Save --> Success[Mostrar mensaje de éxito]
   Success --> Redirect[Redirigir a Index]
   Redirect --> End([Fin])
@@ -53,7 +53,7 @@ flowchart TD
   Find -- No --> NotFound[Mostrar error: producto no encontrado]
   NotFound --> End([Fin])
   Find -- Sí --> Remove[Eliminar registro de la BD]
-  Remove --> Save[Guardar cambios (SaveChanges)]
+  Remove --> Save[Guardar cambios - SaveChanges]
   Save --> Success[Mostrar mensaje: eliminado]
   Success --> Redirect[Volver al listado]
   Redirect --> End([Fin])
@@ -67,9 +67,9 @@ flowchart TD
 flowchart TD
   Start([Inicio]) --> NavStats[Usuario selecciona 'Estadísticas']
   NavStats --> QueryDB[Ejecutar consultas LINQ/EF Core]
-  QueryDB --> PriceReport[1) Ordenar por Precio DESC (Reporte de Precios)]
-  PriceReport --> AvgPrice[2) Calcular Promedio de Precio (Average)]
-  AvgPrice --> TotalValue[3) Calcular Valor total (SUM Price * Stock)]
+  QueryDB --> PriceReport[1) Ordenar por Precio DESC - Reporte de Precios]
+  PriceReport --> AvgPrice[2) Calcular Promedio de Precio - Average]
+  AvgPrice --> TotalValue[3) Calcular Valor total - SUM Price * Stock]
   TotalValue --> CriticalStock[4) Filtrar productos con Stock < 5]
   CriticalStock --> Package[Empaquetar resultados en ViewModel]
   Package --> RenderView[Mostrar vista de Estadísticas con tablas y métricas]
