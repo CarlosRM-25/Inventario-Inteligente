@@ -67,10 +67,10 @@ flowchart TD
 flowchart TD
   Start([Inicio]) --> NavStats[Usuario selecciona 'Estadísticas']
   NavStats --> QueryDB[Ejecutar consultas LINQ/EF Core]
-  QueryDB --> PriceReport[1) Ordenar por Precio DESC - Reporte de Precios]
-  PriceReport --> AvgPrice[2) Calcular Promedio de Precio - Average]
-  AvgPrice --> TotalValue[3) Calcular Valor total - SUM Price * Stock]
-  TotalValue --> CriticalStock[4) Filtrar productos con Stock < 5]
+  QueryDB --> PriceReport["1) Ordenar por Precio DESC - Reporte de Precios"]
+  PriceReport --> AvgPrice["2) Calcular Promedio de Precio - Average"]
+  AvgPrice --> TotalValue["3) Calcular Valor total - SUM Price * Stock"]
+  TotalValue --> CriticalStock["4) Filtrar productos con Stock &lt; 5"]
   CriticalStock --> Package[Empaquetar resultados en ViewModel]
   Package --> RenderView[Mostrar vista de Estadísticas con tablas y métricas]
   RenderView --> End([Fin])
